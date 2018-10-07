@@ -1,0 +1,6 @@
+module Pods_SimpleGithub {
+  umbrella header "Pods-SimpleGithub-umbrella.h"
+
+  export *
+  module * { export * }
+}
